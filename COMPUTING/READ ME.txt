@@ -1,0 +1,2 @@
+To choose a main menu option, hit space on the option you want.
+in battle, for example, if there are 3 enemies onscreen, if you kill enemy 1, enemy 2 then becomes enemy 1
